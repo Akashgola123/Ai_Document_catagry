@@ -1,4 +1,4 @@
-# PDF Processor Chatbot
+# AI-Powered Document Understanding and Processing PipelinePDF Processor Chatbot
 
 This repository contains a Streamlit application that processes PDF documents by extracting text, performing OCR on images, cleaning text, and handling various NLP tasks using a chatbot interface. The chatbot can extract information, classify documents, translate text, answer questions, and more.
 

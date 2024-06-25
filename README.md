@@ -68,3 +68,17 @@ The chatbot interface is implemented using predefined prompts for each task. The
 1. Ensure that the text_image_dir directory exists and is writable.
 2. Depending on the size and complexity of the PDF, the processing time may vary.
 3. The application currently supports multiple languages for translation, and the target language can be selected from the dropdown menu.
+
+
+
+## Here the Sample photo form My side and code ouput
+![Screenshot 2024-06-25 163126](https://github.com/Akashgola123/Doc_Ai/assets/89468705/9d56781b-1092-4465-bdcd-3f445f68cfd0)
+
+
+![Screenshot 2024-06-25 163135](https://github.com/Akashgola123/Doc_Ai/assets/89468705/528a4a66-0b2e-4fb8-b743-583b9e7fcb2c)
+
+
+![Screenshot 2024-06-25 163143](https://github.com/Akashgola123/Doc_Ai/assets/89468705/537946bc-9431-4dfa-9501-96ea5c376b22)
+
+
+
